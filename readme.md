@@ -7,4 +7,4 @@ The BSOD can be triggered via Hotkey or Hotstring, a button press or a sequence 
 
 See the script's info area at the top for configuration details.
 
-![Screenshot]()
+![Screenshot](https://github.com/ryunp/bsod-ss/blob/master/bsod-ss_pic.jpg)
